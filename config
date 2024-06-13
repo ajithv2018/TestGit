@@ -1,0 +1,156 @@
+<ul class="nav navbar-nav navbar-right nav-dropdown pull-left">
+                                <li class="hidden-xs">
+                                    <a href="javascript:void(0)" class="waves-effect waves-light">
+                                        <i class="ion ion-ios7-cart"></i>&nbsp;
+                                        Sales
+                                    </a>
+                                    <ul>
+                                       
+                                         <li>
+                                            <a href="/Sales/Orders" class="link">Orders</a><a href="/Sales/Quote?MODE=new" class="new">+</a>
+                                        </li>
+                                      
+                           
+                                        <li>
+                                            <a href="/Sales/invoices" class="link">Invoices</a><a href="/Sales/Entry?MODE=new" class="new">+</a>
+                                        </li>
+                                        <li>
+                                            <a href="/Sales/Schememaster" class="link">Schemes</a>
+                                        </li>
+                                       <li>
+                                            <a href="/sales/returns" class="link">Credit Notes</a><a href="/Sales/Return?MODE=new" class="new">+</a>
+                                        </li>
+                                        <li>
+                                            <a href="/Finance/SettleBills?type=0" class="">Receipts</a>
+                                        </li>
+ <li><a href="/reports/adhoc?reportuid=54">Price List</a></li>
+                                    </ul>
+                                </li>
+                                <li class="hidden-xs">
+                                    <a href="javascript:void(0)" class="waves-effect waves-light">
+                                        <i class="ion ion-ios7-pricetag"></i>&nbsp;
+                                        Purchase
+                                    </a>
+                                    <ul>
+                                       
+                                         <li>
+                                            <a href="/Purchase/Orders" class="link">Orders</a><a href="/Purchase/Quote?MODE=new" class="new">+</a>
+                                        </li>
+                                        <li>
+                                            <a href="/Purchase/Purchases" class="link">Purchase Bills</a><a href="/Purchase/Entry?MODE=new" class="new">+</a>
+                                        </li>
+                                        <li>
+                                            <a href="/Purchase/Returns" class="link">Debit Notes</a><a href="/Purchase/Return?MODE=new" class="new">+</a>
+                                        </li>
+                                     
+                                        <li>
+                                            <a href="/Finance/SettleBills?type=1" class="">Payments</a>
+                                        </li>
+                                        
+                                    </ul>
+                                </li>
+                                <li class="hidden-xs">
+                                    <a href="javascript:void(0)" class="waves-effect waves-light">
+                                        <i class="ion ion-cube"></i>&nbsp;
+                                        Stock
+                                    </a>
+                                    <ul>
+                                       
+                                        <li>
+                                            <a href="/Warehousing/Damages" class="link">Damages</a><a href="/Warehousing/Damage?MODE=new" class="new">+</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="hidden-xs">
+                                    <a href="javascript:void(0)" class="waves-effect waves-light">
+                                        <i class="ion ion-ios7-calculator"></i>&nbsp;
+                                        Finance
+                                    </a>
+                                    <ul>
+                                        <li>
+                                            <a href="/Finance/Journal" class="">Journal</a>
+                                        </li>
+                                        <li>
+                                            <a href="/Finance/Journal?Voucher=3" class="">Add Expense </a>
+                                        </li>
+                                        <li>
+                                            <a href="/Finance/SettleBills" class="">Settle Bills</a>
+                                        </li>
+                                        <li>
+                                            <a href="/Finance/Ledger" class="">Ledgers </a>
+                                        </li>
+                                        <li>
+                                            <a href="/Finance/DailyStatement" class="">Daily Statement </a>
+                                        </li>
+                                        <li>
+                                            <a href="/Finance/AccountOpeningBalance" class="">Opening Balance</a>
+                                        </li>
+                                        <li>
+                                            <a href="/Finance/FinalAccounts" class="">Final Accounts</a>
+                                        </li>
+                                        <li>
+                                            <a href="/Finance/FinancialTransactions" class="">Financial Transactions</a>
+                                        </li>
+                                        <li>
+                                            <a href="/Finance/Reconcile" class="">Reconcile</a>
+                                        </li>
+                                        <li>
+                                            <a href="/Finance/AccountHeadMaster" class="">Heads</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="hidden-xs">
+                                    <a href="javascript:void(0)" class="waves-effect waves-light">
+                                        <i class="ion ion-ios7-bookmarks"></i>&nbsp;
+                                        Payroll
+                                    </a>
+                                    <ul>
+                                        <li>
+                                            <a href="/Payroll/Attendance" class="">Attendance</a>
+                                        </li>
+                                        <li>
+                                            <a href="/Payroll/Payslip" class="">Pay Slip</a>
+                                        </li>
+                                        <li>
+                                            <a href="/Payroll/AdvanceSalary" class="">Advance Salary</a>
+                                        </li>
+                                        <li>
+                                            <a href="/Payroll/ManageSalary" class="">Manage Salary</a>
+                                        </li>
+                                          <li>
+                                            <a href="/Payroll/Holiday" class="">Holiday</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="hidden-xs">
+                                    <a href="javascript:void(0)" class="waves-effect waves-light">
+                                        <i class="ion ion-android-social"></i>&nbsp;
+                                        Contact
+                                    </a>
+                                    <ul>
+                                      
+                                        <li>
+                                            <a href="/Party/Customers" class="link">Customers</a><a href="/Masters/Inventories?Mode=NEW&amp;Section=CUSTOMER" class="new">+</a>
+                                        </li>
+                                        <li>
+                                            <a href="/Party/Suppliers" class="link">Suppliers</a><a href="/Masters/Inventories?Mode=NEW&amp;Section=SUPPLIER" class="new">+</a>
+                                        </li>
+
+                                        
+                                    </ul>
+                                </li>
+                                  <li class="hidden">
+                                <a href="#" class="grp-top-menu waves-effect waves-light">
+                                        <i class="grp-top-menu ion ion-ios7-paper"></i>
+                                    Adhoc Reports
+                                    </a>
+                                      </li>
+
+                                <li class="hidden-xs">
+                                    <a href="/Reports/Reports" class="waves-effect waves-light">
+                                        <i class="ion ion-ios7-paper"></i>&nbsp;
+                                        Reports
+                                    </a>
+                                    
+                                </li>
+                            </ul>
